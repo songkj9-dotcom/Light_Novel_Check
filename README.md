@@ -12,7 +12,8 @@ A simple and intuitive Android application to track your light novel collection 
 ## 📱 Screenshots (스크린샷)
 | Main Screen | Detail Screen |
 |---|---|
-|<img width="360" height="627" alt="스크린샷 2026-06-28 184151" src="https://github.com/user-attachments/assets/acf9d4ee-2109-45a2-8273-e682b68814f1" />|<img width="1080" height="2400" alt="Screenshot_20260703_000638" src="https://github.com/user-attachments/assets/09ed866a-e577-4de8-ae9f-9764e19505ee" />|
+|<img width="360" height="627" alt="스크린샷 2026-06-28 184151" src="https://github.com/user-attachments/assets/acf9d4ee-2109-45a2-8273-e682b68814f1" />|<img width="337" height="625" alt="스크린샷 2026-07-03 000900" src="https://github.com/user-attachments/assets/e7b1e48c-3c39-4c1d-8c6b-e0f7fc4fbb9f" />
+|
 
 ## 🚀 How to Install (설치 방법)
 You can download the latest version of the app directly from the **Releases** section on the right side of this page!
